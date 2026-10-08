@@ -1,0 +1,7 @@
+gradio
+faster-whisper
+numpy
+scipy
+edge-tts
+groq 
+duckduckgo-search
